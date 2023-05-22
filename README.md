@@ -1,7 +1,8 @@
 
 ## Oi, eu sou Gabriel
 
-- 🚧Em transição de carreira
+DESENVOLVEDOR FRONTEND
+
 - 🐱‍🏍Atualmente estudando HTML/CSS/JAVASCRIPT
 - ✈Cursando JavaScript FullStack OneBitCode
 - ✔Aplicando conhecimentos diariamente
